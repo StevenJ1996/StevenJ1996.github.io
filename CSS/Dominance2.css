@@ -1,0 +1,22 @@
+body {
+	background-image: url(https://images.pexels.com/photos/40196/lion-animal-portrait-africa-safari-40196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+.Caleb {
+	color: white;
+	text-align: center;
+}
+
+img {
+	margin: 20px;
+}
+
+p {
+	font-size: 23px;
+	color: white;
+	margin: 20px;
+}
+
+img:hover{
+	transform: scale(1.1);
+}

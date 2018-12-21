@@ -1,0 +1,32 @@
+body {
+	background-image: url(https://images.pexels.com/photos/397998/pexels-photo-397998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-size: cover;
+}
+
+
+img {
+	float: left;
+	margin: 25px;
+}
+
+p {
+	color: white;
+	font-size: 23px;
+	float: left;
+	text-align: bottom-left;
+	display: block;
+	margin: 25px
+}
+
+.Samyah {
+	color: white;
+	text-align: center;
+}
+
+.Tay:hover{
+	transform: scale(1.1);
+}
+
+img:hover{
+	transform: scale(1.1);
+}
